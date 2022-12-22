@@ -1,0 +1,1 @@
+SELECT COUNT("endDate") as "currentExperiences" FROM experiences;
